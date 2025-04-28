@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Apollo.BusinessCard.Api/bin/Debug/net6.0
+/Apollo.BusinessCard.Api/obj
+/Apollo.BusinessCard.Application/bin/Debug/net6.0
+/Apollo.BusinessCard.Application/obj
+/Apollo.BusinessCard.Domain/bin/Debug/net6.0
+/Apollo.BusinessCard.Domain/obj
+/Apollo.BusinessCard.Infrastructure/bin/Debug/net6.0
+/Apollo.BusinessCard.Infrastructure/obj/Debug/net6.0
+/Apollo.BusinessCard.Infrastructure/obj
